@@ -1,0 +1,51 @@
+@media only screen and (max-width: 765px)
+{
+ 
+/**main**/
+ main{
+ 	width: 98%;
+ 	margin: 0px;
+ 	
+ 
+ }
+
+/** artist-profile **/
+ .artist-profile{
+ 	margin: 0px;
+ }
+
+
+/* navbar */
+.search-box input{
+	width: 4rem;
+	border: none;
+	margin: 10px 5px 10px 0px;
+	outline: none;
+	color: blue;
+
+}
+
+/*remove aside when width 765px*/
+aside{
+	display:none ;
+	
+}
+
+}
+/******************************************/
+
+
+@media only screen and (max-width: 900px)
+{
+
+ main{
+ 	width: 98%;
+ 	margin: 0px;
+
+ }
+
+
+
+
+
+}
